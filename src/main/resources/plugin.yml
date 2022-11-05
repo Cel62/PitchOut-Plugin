@@ -1,0 +1,8 @@
+main: fr.cel.pitchout.PitchOut
+name: PitchOut
+version: 1.0
+api-version: 1.19
+commands:
+  start:
+    description: Permet de lancer la partie*
+  getstate:
